@@ -10,3 +10,5 @@ and to give a bit more of an FPS boost for machines that desperately want to get
 3. Extract the .vpk file to steam > steamapps > common > Team Fortress 2 > tf > custom
 
 You should now be able to boot into your game and have the No Hats mod loaded.
+
+As of December 2018, I will no longer be maintaining this mod.
